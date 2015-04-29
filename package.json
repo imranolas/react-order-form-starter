@@ -1,0 +1,15 @@
+{
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "fetch": "npm:whatwg-fetch@^0.7.0",
+      "react": "npm:react@^0.13.2",
+      "uuid": "npm:uuid@^2.0.1"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.0.12",
+      "babel-runtime": "npm:babel-runtime@^5.0.12",
+      "core-js": "npm:core-js@^0.8.1"
+    }
+  }
+}

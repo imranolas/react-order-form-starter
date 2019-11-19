@@ -62,7 +62,7 @@
     "babel": "4.7.13",
     "browserify": "^9.0.8",
     "chai": "^2.2.0",
-    "eslint": "^0.18.0",
+    "eslint": "^6.6.0",
     "babel-eslint": "^2.0.0",
     "esvalid": "^1.1.0",
     "istanbul": "^0.3.5",

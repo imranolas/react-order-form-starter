@@ -24,7 +24,7 @@
   "homepage": "https://github.com/crypto-browserify/createECDH",
   "dependencies": {
     "bn.js": "^1.0.0",
-    "elliptic": "^1.0.0"
+    "elliptic": "^6.5.3"
   },
   "devDependencies": {
     "tap-spec": "^1.0.1",
